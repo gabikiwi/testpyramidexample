@@ -5,9 +5,8 @@
   "compact": false,
   "code": true,
   "presets": [
-    ["env"],
-    "stage-1"
-  ],
+     [ "env",  { "modules": false }]
+    ],
   "plugins": [
     "syntax-flow",
     "transform-decorators-legacy",
