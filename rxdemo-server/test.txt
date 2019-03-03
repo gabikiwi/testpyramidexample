@@ -1,1 +1,1 @@
-Gabriel Chivoiu testing code change 2
+Gabriel Chivoiu testing code change 2 -> kick off the child pipeline (End to End)
